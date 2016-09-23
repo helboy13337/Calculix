@@ -20,6 +20,7 @@ namespace Calculix
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             DataTable dt = new DataTable();
             string leftside = textBox1.Text.Split('=')[0];
             string rightside = textBox1.Text.Split('=')[1];
@@ -34,6 +35,8 @@ namespace Calculix
             {
                 MessageBox.Show("this is false");
             }
+
+            MessageBox.Show("This is a testing messagebox!");
 
         }
     }
