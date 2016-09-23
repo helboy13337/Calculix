@@ -19,7 +19,7 @@ namespace Calculix
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("This is a testing messagebox!");
         }
     }
 }
