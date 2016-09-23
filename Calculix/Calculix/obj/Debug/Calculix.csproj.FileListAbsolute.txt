@@ -1,1 +1,9 @@
 C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\bin\Debug\Calculix.exe.config
+C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\bin\Debug\Calculix.exe
+C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\bin\Debug\Calculix.pdb
+C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\obj\Debug\Calculix.csprojResolveAssemblyReference.cache
+C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\obj\Debug\Calculix.Form1.resources
+C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\obj\Debug\Calculix.Properties.Resources.resources
+C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\obj\Debug\Calculix.csproj.GenerateResource.Cache
+C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\obj\Debug\Calculix.exe
+C:\Users\school\Documents\GitHub\Calculix\Calculix\Calculix\obj\Debug\Calculix.pdb
